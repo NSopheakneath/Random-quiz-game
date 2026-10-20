@@ -4,7 +4,7 @@
 #include <cstdio>
 #include <algorithm>
 #include <random>
-#include "json.hpp"   // download from github.com/nlohmann/json (single header)
+#include "json.hpp"  
 using namespace std;
 using json = nlohmann::json;
 
